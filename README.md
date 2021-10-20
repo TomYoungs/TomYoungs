@@ -1,7 +1,5 @@
 ### Hello :)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a react and nextjs system
 - 🌱 I’m currently learning typescript 
 - 💬 Ask me about coffee ☕
