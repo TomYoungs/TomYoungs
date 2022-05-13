@@ -5,6 +5,8 @@
 - 💬 Ask me about coffee ☕
 - ⚡ Fun fact: I like cooking 🍰 and craft 🧵🖋
 
+[linktr.ee/tyoungs](https://linktr.ee/tyoungs)
+
 <br>
 
 ### Socials ✉
