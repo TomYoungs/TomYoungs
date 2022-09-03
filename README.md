@@ -1,7 +1,6 @@
 ### Welcome 👋
 
 - 🔭 I’m currently working on a server project 🖥
-!<-- - 🌱 I’m currently learning terraform, gcp, and much more! -->
 - 💬 Ask me about coffee ☕
 - ⚡ Fun fact: I like cooking 🍰 and craft 🧵🖋
 
